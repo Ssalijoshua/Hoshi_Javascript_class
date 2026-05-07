@@ -33,4 +33,4 @@ user4 ={
 
 
 // Question 3
-//  Write a function that comapres 2 arrrays and returns true if they are simnilar and false if they arent
+//  Write a function that compares 2 arrays and returns true if they are simnilar and false if they arent
